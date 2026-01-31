@@ -57,4 +57,4 @@ Three regression models were evaluated based on their R2 score and error rates:
 - Nguyen Song Nhat (19110139)
 
 Instructor: Nguyen Tien Dat
-Class: 20TTH - Ho Chi Minh City University of Technology and Education (HCMUTE)
+Class: 20TTH - Ho Chi Minh City University of Science (HCMUS)
